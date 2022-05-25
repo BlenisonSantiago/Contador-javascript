@@ -1,0 +1,73 @@
+body{
+  color: rgb(48, 40, 40);
+  font-family: 'Courier New', Courier, monospace ;
+  border: 5px solid rgb(250, 246, 3);
+  border-radius: 200px;
+  max-width: 400px;
+  padding: 10px;
+  margin: 0 auto;
+  text-align: center;
+  width: 450px;
+  margin-top: 10%;
+
+
+}
+
+.corTexto{
+  color: rgb(255, 255, 255);
+  font-size: 40px;
+  font-family: 'Franklin Gothic Medium';
+  margin-top: 15%;
+ }
+
+html{
+  background: #41017e;
+}
+
+.corCont{
+  color:#fffb00;
+  font-family: 'Franklin Gothic Medium';
+  font-size: 30;
+  text-transform: uppercase;
+
+}
+
+.cor3{
+  color: rgb(255, 255, 255);
+  font-family: 'Franklin Gothic Medium';
+  font-size: 24;
+  text-transform: capitalize;
+}
+
+.menos{
+  font-weight: bolder;
+  font-size: 23px;
+  color: red;
+  border-radius: 3px;
+  border: 2px solid #fffb00;
+  background-color: #ffffff;
+  margin-top: 10%;
+  margin-bottom: 15%;
+
+}
+
+.mais{
+  font-weight: bolder;
+  font-size: 23px;
+  color: green;
+  border-radius: 3px;
+  border: 2px solid #fffb00;
+  background-color: #ffffff;
+}
+
+.numero{
+  font-weight: bolder;
+  font-size: 40px;
+  color:rgb(255, 255, 255);
+
+}
+
+.corParagrafo{
+  color: #fffb00;
+  font-weight: bolder;
+}
